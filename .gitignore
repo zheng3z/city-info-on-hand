@@ -1,0 +1,9 @@
+.gradle/*
+.idea/*
+.project
+.settings/*
+app/.classpath
+app/.project
+app/.settings/org.eclipse.buildship.core.prefs
+local.properties
+.DS_Store
