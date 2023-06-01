@@ -1,6 +1,6 @@
 # Term Project
 
-Team 25's CS-427 android app 
+Team 25's android app 
 
 ---
 ## Team Member Information
@@ -10,7 +10,7 @@ Team 25's CS-427 android app
 | Zepei Li           | zepeili2 | zepeili2       | Manager   | Java                  |
 | Caleb Tan          | calebct2 | Caleb-Tan      | Tech Lead | Java and Javascript   |            
 | Andrew Tian        | adtian2  | adtian2        | Developer | Java                  |
-| Zheng Zou          | zzou7    | zheng3z        | Developer | Python                |
+| Zheng Zou          | zzou7    | zheng3z        | Developer | Python, Java           |
 | Yutong Wang        | yutong9  | andywangyt     | Developer | Java                  |
 | Anastasia Gonzalez | ag86     | asgonzalez8530 | Developer | Java                  |
 | Nuo Xu             | nuox3    | nuox3          | Developer | Java, Javascript, PHP |
